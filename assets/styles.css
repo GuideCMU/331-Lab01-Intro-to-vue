@@ -108,6 +108,11 @@ p {
   flex-wrap: wrap;
 }
 
+.disabledButton {
+  background-color: #d8d8d8;
+  cursor: not-allowed;
+}
+
 .product-image,
 .product-info {
   width: 50%;
